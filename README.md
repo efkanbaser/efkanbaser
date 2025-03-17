@@ -23,4 +23,4 @@ I'm an engineer that transitioned to being a full-stack developer after graduati
 
 #
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=efkanbaser)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=efkanbaser=dark)](https://git.io/streak-stats)
