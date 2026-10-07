@@ -1,26 +1,34 @@
-# 🏄‍♂️ Efkan Başer
+# Efkan Başer
 
-**`Web Developer (Also loves the gym, cooking and gaming)`**
+**.NET Software Developer | Backend Development & System Integration**
 
-I'm an engineer that transitioned to being a full-stack developer after graduation, and I'm loving every second of it. Currently I build projects with ASP.NET Core. I plan on learning different tech stacks as I polish my skills and publish more projects. Currently, I'm working on [Chefko Blog](https://www.chefkoblog.com/), a more simplistic approach to food blogging that I decided to make because any and every food blogging page has their ingredients list so far down the drain, you have to scroll at least a minute to see the actual ingredients and directions. It is also a social platform so, if you have any recipes you'd like to share, you are always welcome!
+I’m a software developer based in Ankara, Türkiye. Since April 2025, I’ve worked at Usta Bilgi Sistemleri on financial software, backend integrations and SQL Server applications.
 
----
+## Professional experience
 
-### 🧰 Languages and Tools
+- Replacing legacy bank user management, including regional access scopes, validation and audit logs.
+- Synchronizing organizational hierarchies, users, roles and financial workflows between applications.
+- Developing document synchronization and service monitoring tools.
+- Working with SQL Server queries, stored procedures, migration validation and execution plans.
+- Conducting stakeholder interviews and manual end-to-end testing, and supporting production deployments.
 
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="MS SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
-<img align="left" alt="RabbitMQ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/>
-<br />
+## Technologies
 
-#
+**Backend:** C#, ASP.NET Core, ASP.NET MVC, .NET Framework, Entity Framework Core
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=efkanbaser&theme=dark)](https://git.io/streak-stats)
+**Data and integration:** SQL Server, T-SQL, REST, SOAP/WCF, RabbitMQ
+
+**Other tools:** Git, Docker, JavaScript, TypeScript, React, Python, PowerShell
+
+## Public projects
+
+- [LoanPaymentCalculator](https://github.com/efkanbaser/LoanPaymentCalculator) — C# repayment-schedule calculation code covering configurable terms, grace periods and tax inputs.
+- [FoodieBlog](https://github.com/efkanbaser/FoodieBlog) — A personal recipe-blogging web application.
+
+My professional experience also includes work that is not available in these public repositories.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/efkan-baser-6ab86a242/) · [Email](mailto:efkanbaser26@gmail.com)
+
+Outside software, I enjoy the gym, cooking and gaming.
